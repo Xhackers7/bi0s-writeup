@@ -2,7 +2,7 @@
 ## Challenge 
 Given an app that emulates a given program using custom opcodes. We need to write
 a disassembler to break down   
-its behaviour & reverse it to get the correct key.
+its behaviour & reverse it to get the correct input
 ## Approach
 To gain more understanding about the program, I began by analysing the file, and figured its a striped executable.
 Then I dissassembled the program in ida, when looking at the assembly its obvious that a lot of random obfuscation is going on.
